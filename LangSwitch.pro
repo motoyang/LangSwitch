@@ -29,3 +29,7 @@ SOURCES += main.cpp\
 HEADERS  += langswitch.h
 
 FORMS    += langswitch.ui
+
+TRANSLATIONS = lang_en.ts \
+    lang_zh.ts \
+    lang_la.ts
